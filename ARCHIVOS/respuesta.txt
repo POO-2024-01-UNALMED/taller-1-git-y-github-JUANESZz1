@@ -1,0 +1,1 @@
+Al crear la carpeta de archivos no sabía como hacer un commit sin tener que manipular el archivo de texto datos.txt, así que movi este archivo a la carpeta para que saliera en el apartado changes de git desktop, tambien al dar commit a este cambio termine subiendolo a github dandole push
