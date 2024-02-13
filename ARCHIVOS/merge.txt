@@ -1,0 +1,1 @@
+En este momento si pudimos hacer un commit ya que se hicieron cambios en los archivos del repositorio, ya que una carpeta vacia no se considera como un cambio en el mismo, al momento de contener un acrhivo de texto ya se puede usar esta funcion 
